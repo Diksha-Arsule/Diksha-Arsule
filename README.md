@@ -31,7 +31,7 @@
 ### 📫 Reach Me
 - 📧 Email: arsulediksha843@gmail.com
 - 💼 LinkedIn: [https://www.linkedin.com/in/diksha-arsule-2739ab332]
-- 🌐 GitHub: github.com/Diksha-Arsule
+- 🌐 GitHub: [https://github.com/Diksha-Arsule]
 
 ---
 
