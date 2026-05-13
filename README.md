@@ -5,7 +5,7 @@
 
 ---
 
-### 👀 Interests
+###  Interests
 - Full Stack Web Development  
 - Backend Development (Java, Spring Boot, REST APIs)  
 - Problem Solving & DSA (Interview-focused)  
@@ -35,10 +35,10 @@
 
 ---
 
-### 😄 Pronouns
+###  Pronouns
 She / Her  
 
 ---
 
-### ⚡ Fun Fact
-I enjoy turning ideas into working applications and improving code quality every day 🚀
+###  Fun Fact
+I enjoy turning ideas into working applications and improving code quality every day 
